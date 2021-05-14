@@ -1,0 +1,98 @@
+export default [
+  {
+    id: "5f6a5c848a6ae43a0d968",
+    user: {
+      username: "Aisha Baxter",
+      profilePhotoUrl: "https://picsum.photos/06/06",
+    },
+    postedAt: "2020-08-09T04:00: +05:00",
+    post: "This is a random text for random generated feed -1",
+    photoUrl: "https://picsum.photos/200/1000",
+    likes: 763,
+    comments: 7325,
+  },
+  {
+    id: "5f6a5c848a6ae43a0d962",
+    user: {
+      username: "Aisha Baxter",
+      profilePhotoUrl: "https://picsum.photos/96/96",
+    },
+    postedAt: "2020-08-09T04:00: +05:00",
+    post: "This is a random text for random generated feed -2",
+    photoUrl: "https://picsum.photos/300/1000",
+    likes: 763,
+    comments: 7325,
+  },
+  {
+    id: "5f6a5c848a6ae43a0d963",
+    user: {
+      username: "Aisha Baxter",
+      profilePhotoUrl: "https://picsum.photos/23/23",
+    },
+    postedAt: "2020-08-09T04:00: +05:00",
+    post: "This is a random text for random generated feed- 3",
+    photoUrl: "https://picsum.photos/400/1000",
+    likes: 763,
+    comments: 7325,
+  },
+  {
+    id: "5f6a5c848a6ae43a0d964",
+    user: {
+      username: "Aisha Baxter",
+      profilePhotoUrl: "https://picsum.photos/46/46",
+    },
+    postedAt: "2020-08-09T04:00: +05:00",
+    post: "This is a random text for random generated feed -4",
+    photoUrl: "https://picsum.photos/500/1000",
+    likes: 763,
+    comments: 7325,
+  },
+  {
+    id: "5f6a5c848a6ae43a0d965",
+    user: {
+      username: "Aisha Baxter",
+      profilePhotoUrl: "https://picsum.photos/95/95",
+    },
+    postedAt: "2020-08-09T04:00: +01:00",
+    post: "This is a random text for random generated feed -5",
+    photoUrl: "https://picsum.photos/600/1000",
+    likes: 763,
+    comments: 7325,
+  },
+  {
+    id: "5f6a5c848a6ae43a0d966",
+    user: {
+      username: "Aisha Baxter",
+      profilePhotoUrl: "https://picsum.photos/69/69",
+    },
+    postedAt: "2020-08-09T04:00: +04:00",
+    post: "This is a random text for random generated feed -6",
+    photoUrl: "https://picsum.photos/700/1000",
+    likes: 763,
+    comments: 7325,
+  },
+  {
+    id: "5f6a5c848a6ae43a0d967",
+    user: {
+      username: "Aisha Baxter",
+      profilePhotoUrl: "https://picsum.photos/196/196",
+    },
+    postedAt: "2020-08-09T04:00: +05:00",
+    post: "This is a random text for random generated feed -7",
+    photoUrl: "https://picsum.photos/900/1000",
+    likes: 763,
+    comments: 7325,
+  },
+  {
+    id: "5f6a5c848a6ae43a0d969",
+    user: {
+      username: "Aisha Baxter",
+      profilePhotoUrl: "https://picsum.photos/80/80",
+    },
+    postedAt: "2020-08-09T04:00: +06:00",
+    post: "This is a random text for random generated feed -8",
+    photoUrl: "https://picsum.photos/550/1000",
+    likes: 763,
+    comments: 7325,
+  },
+];
